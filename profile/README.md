@@ -11,9 +11,25 @@
 ## Связь
 
 Вы можете следить за нами и оставаться на связи через:
-- [Телеграм-канал](https://t.me/studsovet_bsuir_by)
-- [VK-группу](https://vk.com/studsovetbguir)
 
+<a href="https://t.me/studsovet_bsuir_by">
+  <p>
+    <img src="https://telegram.org/img/website_icon.svg" width="20" />
+    Телеграм-канал
+  </p>
+</a>
+<a href="https://vk.com/studsovetbguir">
+  <p>
+    <img src="https://static.vk.com/vkid/1.1.961/favicon-new-192x192.png?1" width="20" />
+    VK-Группу
+  </p>
+</a>
+<a href="https://www.instagram.com/studsovet_bsuir/">
+  <p>
+    <img src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" width="20" />
+    Instagram
+  </p>
+</a>
 Для быстрой связи по конкретным вопросам пишите в [Телеграм](https://t.me/yet_another_name).
 
 Спасибо, что интересуетесь нашими проектами!
