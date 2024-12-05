@@ -20,7 +20,7 @@
 </a>
 <a href="https://vk.com/studsovetbguir">
   <p>
-    <img src="https://static.vk.com/vkid/1.1.961/favicon-new-192x192.png?1" width="20" />
+    <img src="https://www.mgutu-vf.ru/img/vk_1.png" width="20" />
     VK-Группу
   </p>
 </a>
